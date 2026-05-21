@@ -1,10 +1,20 @@
-# Prab54
-# Here are some ideas to get you started:
+# Hi, I'm Prabhraj 👋
 
-- :telescope: I’m currently working on ...
-- :seedling: I’m currently learning ...
-- :dancers: I’m looking to collaborate on ...
-- :speech_balloon: Ask me about ...
-- :mailbox: How to reach me: ...
-- :smile: Pronouns: ...
-- :zap: Fun fact: ...
+Computer Science + Statistics student at the University of British Columbia,
+focused on full-stack software engineering.
+
+- 🔭 Currently building **[QuestLog](https://github.com/Prabh54/questlog)** —
+  a gamified habit tracker (React, TypeScript, Node/Express, PostgreSQL)
+- 🌱 Learning more about machine learning and systems programming
+- 💼 Open to Fall 2026 software engineering internships
+
+### Tech I work with
+
+**Languages:** TypeScript, JavaScript, Java, Python
+**Frontend:** React, Tailwind CSS
+**Backend:** Node.js, Express, PostgreSQL, Prisma
+**Tools:** Docker, Git, GitHub Actions
+
+### Reach me
+
+[LinkedIn](https://linkedin.com/in/your-handle) · your.email@example.com
