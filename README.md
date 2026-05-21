@@ -11,8 +11,11 @@ focused on full-stack software engineering.
 ### Tech I work with
 
 **Languages:** TypeScript, JavaScript, Java, Python
+
 **Frontend:** React, Tailwind CSS
+
 **Backend:** Node.js, Express, PostgreSQL, Prisma
+
 **Tools:** Docker, Git, GitHub Actions
 
 ### Reach me
