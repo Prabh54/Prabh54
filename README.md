@@ -20,4 +20,4 @@ focused on full-stack software engineering.
 
 ### Reach me
 
-[LinkedIn](https://linkedin.com/in/prabhraj) · prabhrajkahlon0054@gmail.com
+[LinkedIn](https://linkedin.com/in/prabhraj) · prabhrajkahlon@gmail.com
