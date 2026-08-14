@@ -6,7 +6,6 @@ focused on full-stack software engineering.
 - 🔭 Currently building **[QuestLog](https://github.com/Prabh54/questlog)** —
   a gamified habit tracker (React, TypeScript, Node/Express, PostgreSQL)
 - 🌱 Learning more about machine learning and systems programming
-- 💼 Open to Fall 2026 software engineering internships
 
 ### Tech I work with
 
